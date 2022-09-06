@@ -1,6 +1,6 @@
-package repository;
+package com.example.springbootopencsv.repository;
 
-import model.Employee;
+import com.example.springbootopencsv.model.Employee;
 import org.springframework.data.repository.CrudRepository;
 
 public interface EmployeeRepository

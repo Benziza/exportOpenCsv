@@ -1,9 +1,9 @@
-package service;
+package com.example.springbootopencsv.service;
 
-import model.Employee;
+import com.example.springbootopencsv.model.Employee;
+import com.example.springbootopencsv.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import repository.EmployeeRepository;
 
 import java.util.List;
 
