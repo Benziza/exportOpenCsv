@@ -6,7 +6,7 @@ Export and download the data as a CSV file in a Spring Boot project.
 
 ### Java 17
 
-### Spring Boot 2.7.0
+### Spring Boot 2.7.3
 
 ### OpenCSV 5.6
 
